@@ -1,0 +1,85 @@
+first_name: testuser
+middle_name: test
+last_name: test123
+email: nirmala-a@creditcanada.net
+phone: 6788775787
+mobile: 6788775787
+dob: 1985-03-30
+gender: F
+citizen: Permanent Resident
+agent: None
+createddate: 2017-11-06 13:27:53
+client_id: 2965
+street_address: 34-215 Primrose Dr
+postal_code: S7K 5E4
+city: Saskatoon
+province: SK
+po_box: 
+time_at_address: 
+occupation: 117
+income: 3000
+emp_time: Less Than Two Years
+emp_name: testemp
+emp_address: 34 U.S. 1, New Brunswick, NJ, United States
+emp_city: New Brunswick
+emp_province: 
+emp_postal: 08901
+emp_phone: 3456465466
+num_creditcards: None
+total_cards_balances: 0
+total_cards_payments: 
+rent_own: Rent
+rent_mortgage_payment: 1000
+car_loan_amount: 0
+total_car_payments: 
+number_of_bankruptcy: 0
+bankruptcy_date: 0000-00-00 00:00:00
+bankruptcy_discharge_date: 0000-00-00 00:00:00
+total_bankruptcy_payment: 
+consumer_discharge_date: 0000-00-00 00:00:00
+total_consumer_payments: 
+sin: 345346546
+primaryid_type: 30
+primaryid_number: 34534534543
+primaryid_placeofissue: AB
+primaryid_expirydate: 2023-12-29
+secondaryid_type: 14
+secondaryid_number: 2345235423
+secondaryid_placeofissue: AB
+secondaryid_expirydate: 2023-12-29
+mother_info: testmom
+reoccur_fee_date: 2017-11-10
+setup_fee_date: 0000-00-00
+bank_name: 001
+branch_address: test sasdsad  asdsdsa
+branch_city: 
+branch_province: 
+branch_postalcode: 
+institution_number: 1
+account_number: 3453456
+transit_number: 34543
+product_id: 1
+product_name: Premium CreditAdvise
+CAT_include: Yes
+setup_fee: 199
+reoccur_fee: 79
+promo_box: 
+promo_code: 
+promo_value: 
+final_setup_fee: 0
+final_payment_type: 
+terms: checked
+contract_terms: on
+totalAmount: 15
+amount: 15
+pass: CANADACREDIT
+source: CANADACREDIT
+payment_infocol: 
+finance_terms: on
+emt_payment: on
+identification_terms: on
+form_token: 5a00c334b0409
+browser_type: Chrome
+browser_version: 61.0.3163.100
+platform: Windows
+system_ip: 184.68.121.126
