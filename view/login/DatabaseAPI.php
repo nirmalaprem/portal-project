@@ -3,9 +3,9 @@ require("../../model/login_config.php");
 
 
 
- $url = "http://192.168.0.16/CardAPI/1.11/SOAPService/CashSlab.asmx?WSDL";
- $UserName = "cashslab";
- $psw = "CashSlab15";
+ $url = "test";
+ $UserName = "test";
+ $psw = "test";
  $SessionCode;
  $istest = 0;
  $BINID = 7;
